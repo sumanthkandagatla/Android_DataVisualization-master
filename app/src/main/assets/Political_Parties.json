@@ -1,0 +1,218 @@
+{
+  "Average_Age": [
+    23,
+    38,
+    12,
+    43,
+    32,
+    12,
+    63,
+    27,
+    55,
+    42,
+    11,
+    6,
+    3,
+    14,
+    35,
+    27,
+    39,
+    12,
+    39,
+    27,
+    72,
+    42,
+    32,
+    12,
+    17,
+    27,
+    60,
+    42,
+    11,
+    20,
+    39,
+    12,
+    8,
+    27,
+    47,
+    42,
+    32,
+    12,
+    29,
+    27,
+    12,
+    43,
+    32,
+    12,
+    44,
+    27,
+    43,
+    42,
+    11,
+    6
+  ],
+  "First_Career_Politics": [
+    23,
+    38,
+    12,
+    43,
+    32,
+    12,
+    63,
+    27,
+    55,
+    42,
+    11,
+    6,
+    3,
+    14,
+    35,
+    27,
+    39,
+    12,
+    39,
+    27,
+    72,
+    42,
+    32,
+    12,
+    17,
+    27,
+    60,
+    42,
+    11,
+    20,
+    39,
+    12,
+    8,
+    27,
+    47,
+    42,
+    32,
+    12,
+    29,
+    27,
+    12,
+    43,
+    32,
+    12,
+    44,
+    27,
+    43,
+    42,
+    11,
+    6
+  ],
+  "Parties vs Age": [
+    {
+      "name": "Congress",
+      "value": "24"
+    },
+    {
+      "name": "BJP",
+      "value": "12"
+    },
+    {
+      "name": "CPI",
+      "value": "17"
+    },
+    {
+      "name": "Lok Satta",
+      "value": "19"
+    },
+    {
+      "name": "Independent",
+      "value": "5"
+    },
+    {
+      "name": "Democratic",
+      "value": "13"
+    },
+    {
+      "name": "Liberal",
+      "value": "20"
+    },
+    {
+      "name": "Communist",
+      "value": "15"
+    },
+    {
+      "name": "Alliance",
+      "value": "8"
+    },
+    {
+      "name": "Labour",
+      "value": "15"
+    },
+    {
+      "name": "Civic",
+      "value": "7"
+    },
+    {
+      "name": "Nationalist",
+      "value": "9"
+    }
+  ],
+  "Party vs Salary": [
+    {
+      "name": "Congress",
+      "value1": "12.3",
+      "value2": "30.4"
+    },
+    {
+      "name": "BJP",
+      "value1": "17.2",
+      "value2": "28.2"
+    },
+    {
+      "name": "CPI",
+      "value1": "16.5",
+      "value2": "20.9"
+    },
+    {
+      "name": "Lok Satta",
+      "value1": "16.6",
+      "value2": "48.4"
+    },
+    {
+      "name": "Independent",
+      "value1": "39.45",
+      "value2": "75.49"
+    },
+    {
+      "name": "Democratic",
+      "value1": "32.53",
+      "value2": "65.82"
+    },
+    {
+      "name": "Liberal",
+      "value1": "42.58",
+      "value2": "98.23"
+    },
+    {
+      "name": "Communist",
+      "value1": "10.49",
+      "value2": "28.43"
+    },
+    {
+      "name": "Alliance",
+      "value1": "19.54",
+      "value2": "32.99"
+    },
+    {
+      "name": "Labour",
+      "value1": "7.92",
+      "value2": "13.69"
+    },
+    {
+      "name": "Civic",
+      "value1": "12.3",
+      "value2": "38.61"
+    },
+    {
+      "name": "Nationalist",
+      "value1": "24.21",
+      "value2": "28.86"
+    }
+  ]
+}
